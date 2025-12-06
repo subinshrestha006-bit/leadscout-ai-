@@ -1,0 +1,7 @@
+{
+  "name": "LeadScout AI",
+  "description": "An autonomous AI agent that leverages Google Maps and Search to identify high-potential B2B leads for web and AI services globally.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
